@@ -6,7 +6,7 @@ So, instead of that, I did this game, as a foundation for what's to come.
 
 ## Index
 
-[Subtitles Behaviour](#Subtitles)
+[Subtitles Behaviour](#subtitles)
 
 
 ## Subtitles
